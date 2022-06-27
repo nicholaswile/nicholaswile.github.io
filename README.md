@@ -1,5 +1,5 @@
 # nicholaswile.github.io
-"nicholaswile.github.io" is the address of my portfolio website. The front-end is based on HTML5 Up's Massively design and includes a home, about, portfolio, and resume page. I include short embedded videos of my projects on the website and links to full video demos, code, and documentation of certain projects. 
+https://github.com/nicholaswile/nicholaswile.github.io is the address of my portfolio website. The front-end is based on HTML5 Up's Massively design and includes a home, about, portfolio, and resume page. I include short embedded videos of my projects on the website and links to full video demos, code, and documentation of certain projects. 
 
 # Background
 I wanted to host my favorite projects I've worked on all in one place to make them easier to view, manage, and share with others (e.g., to friends, family, academic and professional contacts). A couple of friends encouraged me to make a website for hosting my portfolio, and thus nicholaswile.github.io was born. 
@@ -18,3 +18,4 @@ I wanted to host my favorite projects I've worked on all in one place to make th
 
 # Links
 - HTML5 Up: https://html5up.net/
+- My website: https://github.com/nicholaswile/nicholaswile.github.io
