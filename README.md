@@ -5,9 +5,10 @@
 I wanted to host my favorite projects I've worked on all in one place to make them easier to view, manage, and share with others (e.g., to friends, family, academic and professional contacts). A couple of friends encouraged me to make a website for hosting my portfolio, and thus nicholaswile.github.io was born. 
 
 # My Role
-- Designed and developed front-end pages for my portfolio website based on HTML5 Up's Massively design.
+- Designed and developed front-end pages for my portfolio website based on HTML5 Up's Massively layout.
+- Designed a unique favicon displaying my first initial 'N' following the color pattern I created for the website. 
 - Optimized website performance, accesibility, and SEO using web.dev's Lighthouse auditing tool.
-- Programmed and refactored with HTML5 and CSS3; edited with Visual Studio Code and managed changes in real-time with Live Server.
+- Programmed and refactored with HTML5 and CSS3; edited in Visual Studio Code and managed changes in real-time with Live Server.
 - Recorded and edited video footage of my projects for embedding on the website.
 - Hosted the website from a remote repository using GitHub Pages. 
 
